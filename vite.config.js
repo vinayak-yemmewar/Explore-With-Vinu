@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base:"/Explore-With-Vinu/",
+  base:"/Explore-With-Vinu/", 
   plugins: [react()],
 })
